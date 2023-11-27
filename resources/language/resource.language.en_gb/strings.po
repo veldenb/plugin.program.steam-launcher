@@ -32,3 +32,7 @@ msgstr "Set the command to execute"
 msgctxt "#30004"
 msgid "Error executing command"
 msgstr "Error executing command"
+
+msgctxt "#30005"
+msgid "Launching Steam..."
+msgstr "Launching Steam..."
